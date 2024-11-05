@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=gnu++11 -O3 -DNDEBUG  -rdynamic CMakeFiles/collectobject.dir/src/detect_go_grip.cpp.o  -o collectobject  -lplayerc++ -lm -lplayerc -lm -lz -lplayerinterface -lplayerwkb -lplayercommon -lplayerc -lz -lplayerinterface -lplayerwkb -lplayercommon 
